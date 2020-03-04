@@ -20,4 +20,4 @@ Web browser: (Google Chrome, Firefox, Internet Explorer, Safari)
 
 ## Authors
 
-* **Jean Boyer** - [JeanArbo](http://jeanarbo.com/)
+* **Jean Boyer** - [JeanArbo](http://jeanarbo.com/) (Portfolio)
