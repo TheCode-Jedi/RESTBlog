@@ -6,8 +6,8 @@ Simple blog site made with HTML5, CSS3 w/ Sass (SCSS) and JavaScript. Currently 
 What things you need to install/view the software.
 
 ```
-Code editor (VScode, Sublime text, Atomio, Brackets..etc)
-Web browser (Google Chrome, Firefox, Internet Explorer, Safari)
+Code editor: (VScode, Sublime text, Atomio, Brackets..etc)
+Web browser: (Google Chrome, Firefox, Internet Explorer, Safari)
 ```
 
 ## Built With
