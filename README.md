@@ -18,6 +18,6 @@ Web browser: (Google Chrome, Firefox, Internet Explorer, Safari)
 * [JQUERY](https://jquery.com/)
 
 
-## Authors
+## Developers
 
 * **Jean Boyer** - [Portfolio](http://jeanarbo.com/)
